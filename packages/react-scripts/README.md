@@ -1,3 +1,9 @@
+# :exclamation: WARNING!
+
+This custom scripts-version of React-Scripts provides Monorepo support.
+
+Please read this for more info: https://github.com/F1LT3R/cra-workspaces-support-1333
+
 # react-scripts
 
 This package includes scripts and configuration used by [Create React App](https://github.com/facebook/create-react-app).<br>
