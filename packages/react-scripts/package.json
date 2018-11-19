@@ -1,14 +1,14 @@
 {
-  "name": "@f1lt3r/react-scripts",
-  "version": "2.1.1-zeta-001",
+  "name": "@hmhco/react-scripts",
+  "version": "2.1.1-monorepo-01",
   "description": "Configuration and scripts for Create React App.",
-  "repository": "f1lt3r/create-react-app",
+  "repository": "hmhco/create-react-app",
   "license": "MIT",
   "engines": {
     "node": ">=6"
   },
   "bugs": {
-    "url": "https://github.com/f1lt3r/create-react-app/issues"
+    "url": "https://github.com/hmhco/create-react-app/issues"
   },
   "files": [
     "bin",

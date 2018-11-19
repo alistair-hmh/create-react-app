@@ -1,0 +1,16 @@
+~/repos/rs-test-1
+lerna init
+Update package.json
+
+```json{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.4.0"
+  },
+  "workspaces": [
+    "packages/apps/*",
+    "packages/components/*"
+  ]
+}
+```

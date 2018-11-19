@@ -1,4 +1,4 @@
-# :exclamation: WARNING!
+# :warning: WARNING!
 
 This custom scripts-version of React-Scripts provides Monorepo support.
 

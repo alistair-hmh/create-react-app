@@ -1,17 +1,17 @@
 {
-  "name": "@f1lt3r/create-react-app",
-  "version": "2.1.1-zeta-001",
+  "name": "create-react-app",
+  "version": "2.1.1",
   "keywords": [
     "react"
   ],
   "description": "Create React apps with no build configuration.",
-  "repository": "f1lt3r/create-react-app",
+  "repository": "hmhco/create-react-app",
   "license": "MIT",
   "engines": {
     "node": ">=4"
   },
   "bugs": {
-    "url": "https://github.com/f1lt3r/create-react-app/issues"
+    "url": "https://github.com/hmhco/create-react-app/issues"
   },
   "files": [
     "index.js",
